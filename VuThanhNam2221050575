@@ -1,1 +1,53 @@
-hello
+vũ thành nam
+2221050575
+DCCTCT67_05A
+ *Chức năng cho Khách hàng
+ 1 Xem sản phẩm
+Hiển thị danh sách hoa quả
+Xem chi tiết (giá, mô tả, số lượng)
+ 2 Tìm kiếm sản phẩm
+Tìm theo tên (Táo, Cam, Xoài…)
+Lọc theo giá
+3 Giỏ hàng
+Thêm sản phẩm vào giỏ
+Cập nhật số lượng
+Xoá sản phẩm
+4 Đặt hàng
+Nhập thông tin (tên, SĐT, địa chỉ)
+Xác nhận đơn hàng
+5 Xem lịch sử mua hàng
+Xem đơn đã đặt
+Trạng thái đơn (đang giao, đã giao)
+* Chức năng cho Admin
+1 Quản lý sản phẩm
+Thêm hoa quả
+Sửa thông tin
+Xoá sản phẩm
+2 Quản lý đơn hàng
+Xem danh sách đơn
+Xác nhận đơn
+Cập nhật trạng thái
+3 Quản lý khách hàng
+Xem thông tin khách
+Lưu lịch sử mua hàng
+4 Thống kê – báo cáo
+Tổng doanh thu
+Sản phẩm bán chạy
+Số lượng tồn kho
+4 Chức năng hệ thống chung
+🔹 4.1 Đăng nhập / đăng ký
+Khách hàng tạo tài khoản
+Admin đăng nhập quản lý
+🔹 4.2 Phân quyền
+User → mua hàng
+Admin → quản lý
+🔹 4.3 Bảo mật
+Lưu mật khẩu mã hoá
+Kiểm tra quyền truy cập
+🔄 5. Luồng hoạt động chính (đặt hàng)
+Khách chọn sản phẩm
+Thêm vào giỏ hàng
+Nhập thông tin
+Xác nhận
+Hệ thống lưu đơn hàng
+Admin xử lý
