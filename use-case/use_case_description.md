@@ -85,7 +85,7 @@ Sau 5 lần sai → khóa tài khoản 5 phút
 Thời gian phản hồi < 3 giây
 Bảo mật cao (HTTPS)
 Không lưu mật khẩu dạng plaintext
-13. Tần suất sử dụng
+13. Tần suất sử dụng 
 Rất thường xuyên (mỗi lần truy cập hệ thống)
 # USE CASE 2: ĐĂNG KÝ TÀI KHOẢN (UC-02)
 Mô tả chi tiết
