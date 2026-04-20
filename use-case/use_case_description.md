@@ -89,21 +89,20 @@ Không lưu mật khẩu dạng plaintext
 Rất thường xuyên (mỗi lần truy cập hệ thống)
 # USE CASE 2: ĐĂNG KÝ TÀI KHOẢN (UC-02)
 Mô tả chi tiết
-
 Cho phép người dùng tạo tài khoản mới để truy cập hệ thống.
 
 Main Flow
-Người dùng chọn “Đăng ký”
-Nhập:
+1. Người dùng chọn “Đăng ký”
+2.Nhập:
 Username
 Password
 Email
-Kiểm tra:
+3.Kiểm tra:
 Định dạng email
 Độ mạnh mật khẩu
-Kiểm tra trùng username
-Lưu vào database
-Thông báo thành công
+4.Kiểm tra trùng username
+5.Lưu vào database
+6.Thông báo thành công
 Business Rules
 Password ≥ 6 ký tự
 Email phải hợp lệ
